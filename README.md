@@ -27,7 +27,7 @@ AnnaBramha Restaurant is a popular dining destination in Pune, known for its aut
 
 ## Preview
 
-You can see a live preview of the AnnaBramha Restaurant Website by visiting [here](link_to_your_live_website).
+You can see a live preview of the AnnaBramha Restaurant Website by visiting [here](https://dnyaneshwariwalde.github.io/Restaurant_LandingPage_1.1/).
 
 ## Setup Instructions
 
