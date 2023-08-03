@@ -36,7 +36,7 @@ If you want to explore the code and run the website locally, follow these steps:
 1. Clone the repository to your local machine using:
 
    ```
-   git clone https://github.com/your_username/anna-bramha-restaurant.git
+   git clone https://github.com/DnyaneshwariWalde/Restaurant_LandingPage_1.1.git
    
    ```
 
